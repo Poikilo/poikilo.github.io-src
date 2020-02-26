@@ -100,5 +100,5 @@ theme: clean-blog
 deploy:
   type: git
   repo: https://github.com/Poikilo/poikilo.github.io
-  branch:
-  message:
+  branch: master
+  message: Blog posting
