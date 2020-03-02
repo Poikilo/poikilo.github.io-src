@@ -1,7 +1,7 @@
 ---
 title: kubernetes#1 용어정리
 date: 2020-02-27 16:21:00
-tags: kubernetes
+tags: [kubernetes]
 ---
 
 #### Kubernetes 용어 정리

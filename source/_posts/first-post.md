@@ -1,7 +1,7 @@
 ---
 title: Github 블로그 생성
 date: 2020-02-26 10:42:44
-tags: blog begineer
+tags: [blog,begineer]
 ---
 
 ### 기술블로그 Start

@@ -1,7 +1,7 @@
 ---
 title: SOLID, KISS, YANGI
 date: 2020-03-02 14:53:59
-tags: design concept software
+tags: [design,concept,software]
 ---
 ## SOLID : 객채지향 개발 5대 원리.
 - SRP(Single Responsibility Principle : 단일 책임의 원칙)

@@ -1,7 +1,7 @@
 ---
 title: CI(Continuous Integration)
 date: 2020-03-02 14:16:57
-tags: CI S/E
+tags: [CI,S/E,software engineering]
 ---
 ## CI(Continuous Integration) : 지속적 통합
 - 소프트웨어 공학에서 CI(;지속적 통합)이란, 모든 개발자의 작업 산출물을 하루에 여러번 통합(Merge)하는 작업을 의미한다.

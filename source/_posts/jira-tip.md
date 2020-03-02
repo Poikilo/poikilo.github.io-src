@@ -1,7 +1,7 @@
 ---
 title: JIRA Tip
 date: 2020-03-02 17:23:30
-tags: jira atlassian issue tracker
+tags: [jira,atlassian,issue,tracker]
 ---
 ## 01. 용어 정리
 - Projects  

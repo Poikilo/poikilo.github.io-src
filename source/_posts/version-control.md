@@ -1,7 +1,7 @@
 ---
 title: 버전관리 도구
 date: 2020-03-02 15:03:40
-tags: VCS
+tags: [VCS, software version control]
 ---
 ## Configuration Management(CM; 형상관리)
 - **Definition**   
