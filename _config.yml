@@ -13,13 +13,19 @@ timezone: Asia/Seoul
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://poikilo.github.com
+url: http://poikilo.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 # pretty_urls:
 #   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
 #   trailing_html: true # Set to false to remove trailing '.html' from permalinks
+
+## sitemap auto generator
+sitemap:
+  path: sitemap.xml
+  tag: false
+  category: false
 
 # Directory
 source_dir: source
