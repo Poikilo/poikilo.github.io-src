@@ -1,5 +1,5 @@
 ---
-title: RESTful-api
+title: RESTful API
 date: 2020-03-03 18:12:44
 tags: [api, restful, rest]
 ---
