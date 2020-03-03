@@ -24,7 +24,7 @@ permalink_defaults:
 ## sitemap auto generator
 sitemap:
   path: sitemap.xml
-  tag: false
+  tag: true
   category: false
 
 # Directory
@@ -116,3 +116,16 @@ feed:
   path: feed.xml
   limit: 20
   hub:
+    content:
+    content-limit: 140
+    content_limit_delim: ' '
+
+#robots.txt
+robotstxt:
+  User-agent: "*"
+  Allow: /
+  Sitemap: https://poikilo.github.io/sitemap.xml
+
+#nofollow
+nofollow:
+  enable: true
