@@ -135,7 +135,7 @@ public class FileManager {
 executable jar로 export  
 필자의 경우 EmptyFolder.jar로 파일명을 정했다.  
 ```
-java EmptyFolder.jar {repository_path}
+java -jar EmptyFolder.jar {repository_path}
 ```
 비어있는 폴더의 경우 .gitkeep 파일을 생성한다.  
 비어있지 않은 폴더에서 .gitkeep이나 deleteme.txt 등 불필요한 파일이 존재하면 삭제한다.  
