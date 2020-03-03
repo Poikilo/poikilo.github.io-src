@@ -32,7 +32,7 @@ key:
   child-2: john
 ```
 |TYPE|Description|
-|:----:|:----:|
+|:----:|----|
 |Type 1|기본적인 스칼라 형태의 Key Value 선언|
 |Type 2|시퀀스로 이루어진 자식노드들, Array 형태|
 |Type 3|매핑으로 이루어진 자식노드들(순서를 보장하지 않는다, Key 문자열로 정렬됨)|
