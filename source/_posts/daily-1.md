@@ -1,5 +1,5 @@
 ---
-title: Google Home Mini
+title: 20/03/05 Diary
 date: 2020-03-05 20:58:30
 tags: [youtube, premium, promotion, google, daily, diary]
 ---
@@ -17,7 +17,7 @@ Youtube Premium 프로모션으로 구글 홈 미니를 신청할 수 있었다.
 실제 배송중 메일의 경우 택배 배송조회 링크가 포함되어있는데,  
 링크가 깨져있다. 아래 링크에서 운송장 번호로 조회 할 수 있다.💁‍♂️  
 [롯데글로벌로지스 택배조회](https://www.lotteglogis.com/home/reservation/tracking/index)  
-
+  
   
 배송완료시, 리뷰형식으로 한번 적어보도록 하자..👏👏  
   
